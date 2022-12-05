@@ -76,4 +76,8 @@ p{
 a { 
     font-size: 25px;
    
+} 
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+p{
+    font-family:"Zen Dots" ;
 }
