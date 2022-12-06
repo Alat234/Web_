@@ -2,7 +2,7 @@
     .col-vlg-3 {
         width: 25%;
     } 
-    .main {
+    .row {
         display: flex;
         flex-wrap: wrap;
     }
@@ -24,7 +24,7 @@
 }
 
 @media (max-width: 767.99px) {
-    .main{
+    .row{
         flex-direction: column;
     }
     .col-sm-12 {
@@ -42,29 +42,27 @@ h1{
     background-color: blue; 
     margin: 1px;
     border: 1px solid black;   
-    display: flex;
-    flex-direction: column-reverse; 
 } 
 .block2{
     background-color: aqua; 
-   display: flex;
+  
     margin: 1px;
     border: 1px solid black;  
-    flex-direction: column-reverse; 
+   
 } 
 .block3{
     background-color: salmon; 
- display: flex;
+
     margin: 1px;
     border: 1px solid black;  
-    flex-direction: column-reverse; 
+  
 } 
 .block4{
     background-color: wheat; 
- display: flex; 
+
     margin: 1px;
     border: 1px solid black; 
-    flex-direction: column-reverse; 
+   
    
 } 
 .C1{  
