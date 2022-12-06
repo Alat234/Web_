@@ -1,4 +1,34 @@
+@media (min-width: 1200px) {
 
+    .col-lg-3 {
+        width: 25%;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199){
+
+    .col-md-4 {
+        width: 33.33%;
+    }
+
+    .col-md-12 {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991){
+
+    .col-md-sm-6 {
+        width: 50%;
+    }
+}
+
+@media (max-width: 767){
+    .col-sm-12{
+        width: 100%;
+    }
+}
 .row {
     display: flex; 
     text-align: left;
