@@ -43,13 +43,13 @@ h1{
     background-color: blue; 
     margin: 1px;
     border: 1px solid black; 
-
+display: flex;
 
 
 } 
 .block2{
     background-color: aqua; 
-
+display: flex;
     margin: 1px;
     border: 1px solid black;  
    
@@ -57,7 +57,7 @@ h1{
 } 
 .block3{
     background-color: salmon; 
-
+display: flex;
     margin: 1px;
     border: 1px solid black;  
   
@@ -65,7 +65,7 @@ h1{
 } 
 .block4{
     background-color: wheat; 
-
+display: flex;
     margin: 1px;
     border: 1px solid black; 
    
@@ -111,17 +111,16 @@ th,td{
  h3{
     font-family: 'Roboto Condensed', sans-serif;
  }  
- @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
  h4{  
     font-family: 'Lobster', cursive;
     
  } 
- @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
  .p,li,th,td{
     font-family: 'Pacifico', cursive;
  } 
- .row{
+ .row{ 
+
     position: relative; 
     display: flex;
     flex-wrap: wrap;
