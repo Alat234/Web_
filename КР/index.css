@@ -75,7 +75,7 @@ h1{
     display: block;
     margin: 1px;
     border: 1px solid black; 
-    width: max-content;
+    width: 100px;
 
 } 
 .C2{ 
@@ -83,14 +83,14 @@ h1{
     display: block;
     margin: 1px;
     border: 1px solid black;  
-    width: min-content;
+    width: 100px;
 } 
 .C3{
     background-color: red;
     display: block;
     margin: 1px;
     border: 1px solid black; 
-    width: 200px;
+    width: 100px;
 } 
 .C4{
     background-color: green;
