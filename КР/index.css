@@ -29,7 +29,8 @@
 } 
 .row {
     width: 100%;
-    display: flex;
+    display: flex; 
+    text-align: left;
 
 }
 
