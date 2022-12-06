@@ -2,7 +2,8 @@
     .col-vlg-3{
         width: 25%;
     } 
-    .row {
+    .row { 
+        flex-direction: row;
         display: flex;
         flex-wrap: wrap;
     }
@@ -124,7 +125,8 @@ th,td{
  p,li,th,td{
     font-family: 'Pacifico', cursive;
  } 
- .row{ 
+ .row{  
+    flex-direction: row;
     position: relative;
     float: right;
     display: flex;
