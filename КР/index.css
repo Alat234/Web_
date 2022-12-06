@@ -42,38 +42,31 @@ h1{
 .block1{
     background-color: blue; 
     margin: 1px;
-    border: 1px solid black;  
-    display: flexbox;
-  display: flex;
-flex-direction: column-reverse;
-flex-wrap: wrap;
+    border: 1px solid black;   
+    display: flex;
+    flex-direction: column-reverse; 
 } 
 .block2{
     background-color: aqua; 
-display: flex;
+   display: flex;
     margin: 1px;
     border: 1px solid black;  
-    flex-wrap: wrap;
     flex-direction: column-reverse; 
-    display: flexbox;
 } 
 .block3{
     background-color: salmon; 
-display: flex;
+ display: flex;
     margin: 1px;
     border: 1px solid black;  
-    flex-wrap: wrap;
     flex-direction: column-reverse; 
-    display: flexbox;
 } 
 .block4{
     background-color: wheat; 
-display: flex; 
-flex-wrap: wrap;
+ display: flex; 
     margin: 1px;
     border: 1px solid black; 
     flex-direction: column-reverse; 
-    display: flexbox;
+   
 } 
 .C1{  
     background-color: blanchedalmond; 
