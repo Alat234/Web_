@@ -1,6 +1,10 @@
 @media (min-width: 1200px) {
     .col-vlg-3 {
         width: 25%;
+    } 
+    .main {
+        display: flex;
+        flex-wrap: wrap;
     }
 }
 
