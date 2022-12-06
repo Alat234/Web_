@@ -45,7 +45,7 @@ h1{
     margin: 1px;
     border: 1px solid black; 
     width: auto; 
-    flex-direction: column
+
 
 } 
 .block2{
@@ -53,21 +53,20 @@ h1{
     display: flex;
     margin: 1px;
     border: 1px solid black; 
-    flex-direction: column
+   
 } 
 .block3{
     background-color: salmon; 
     display: flex;
     margin: 1px;
     border: 1px solid black; 
-    flex-direction: column
+    
 } 
 .block4{
     background-color: wheat; 
     display: flex;
     margin: 1px;
     border: 1px solid black; 
-    flex-direction: column
 } 
 .C1{  
     background-color: blanchedalmond;
