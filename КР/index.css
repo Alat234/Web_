@@ -29,11 +29,6 @@
         width: 100%;
     }
 }
-.row {
-    display: flex; 
-    text-align: left;
-
-}
 
 h1{ 
     font-size: 24px;   
@@ -43,7 +38,6 @@ h1{
 }  
 .block1{
     background-color: blue; 
-    display: flex;
     margin: 1px;
     border: 1px solid black; 
     width: 400px; 
@@ -52,7 +46,7 @@ h1{
 } 
 .block2{
     background-color: aqua; 
-    display: flex;
+
     margin: 1px;
     border: 1px solid black;  
     width: 400px; 
@@ -60,7 +54,7 @@ h1{
 } 
 .block3{
     background-color: salmon; 
-    display: flex;
+
     margin: 1px;
     border: 1px solid black;  
     width: 400px; 
@@ -68,14 +62,13 @@ h1{
 } 
 .block4{
     background-color: wheat; 
-    display: flex;
+
     margin: 1px;
     border: 1px solid black; 
     width: 400px; 
 } 
 .C1{  
     background-color: blanchedalmond;
-    display: block;
     margin: 1px;
     border: 1px solid black; 
     width: 100px;
@@ -83,21 +76,21 @@ h1{
 } 
 .C2{ 
     background-color: magenta;
-    display: block;
+
     margin: 1px;
     border: 1px solid black;  
     width: 100px;
 } 
 .C3{
     background-color: red;
-    display: block;
+
     margin: 1px;
     border: 1px solid black; 
     width: 100px;
 } 
 .C4{
     background-color: green;
-    display: block;
+
     margin: 1px;
     border: 1px solid black; 
     width: 100px;
@@ -122,4 +115,11 @@ th,td{
 
  .p,li,th,td{
     font-family: 'Pacifico', cursive;
+ } 
+ .row{
+    position: relative;
+    float: right;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
  }
