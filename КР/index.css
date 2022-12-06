@@ -38,7 +38,8 @@ h1{
     background-color: blue; 
     display: flex;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: auto;
 
 } 
 .block2{
@@ -70,7 +71,7 @@ h1{
     background-color: magenta;
     display: block;
     margin: 1px;
-    border: 1px solid black
+    border: 1px solid black; 
 } 
 .C3{
     background-color: red;
@@ -97,9 +98,13 @@ th,td{
  h3{
     font-family: 'Roboto Condensed', sans-serif;
  }  
-  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap'); 
- .C1,.C2,.C3,.C4{  
-
+ @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ h4{  
+    font-family: 'Lobster', cursive;
     
+ } 
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+ .p,li,th,td{
+    font-family: 'Pacifico', cursive;
  }
