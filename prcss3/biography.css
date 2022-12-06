@@ -71,7 +71,8 @@ article h2 {
 .row {
     width: 100%;
     display: flex;
-    text-align: center;
+    text-align: center; 
+    flex-wrap: wrap;
 
 }
 .row div{
