@@ -36,26 +36,26 @@ h1{
 }  
 .block1{
     background-color: blue; 
-    display: block;
+    display: flex;
     margin: 1px;
     border: 1px solid black;
 
 } 
 .block2{
     background-color: aqua; 
-    display: block;
+    display: flex;
     margin: 1px;
     border: 1px solid black;
 } 
 .block3{
     background-color: salmon; 
-    display: block;
+    display: flex;
     margin: 1px;
     border: 1px solid black;
 } 
 .block4{
     background-color: wheat; 
-    display: block;
+    display: flex;
     margin: 1px;
     border: 1px solid black;
 } 
@@ -93,8 +93,12 @@ th,td{
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-p{
-    font-family: 'Lobster', cursive;
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');  
+ h3:nth-of-type(1),h3:nth-of-type(2),h3:nth-of-type(3){
+    font-family: 'Roboto Condensed', sans-serif;
+ }  
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap'); 
+ .C1,.C2,.C3,.C4{ 
     
-}
+
+ }
