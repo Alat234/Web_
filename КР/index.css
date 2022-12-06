@@ -127,8 +127,6 @@ th,td{
  } 
  .row{  
     flex-direction: row;
-    position: relative;
-    float: right;
     display: flex;
     flex-wrap: wrap;
  }
