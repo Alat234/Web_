@@ -42,8 +42,9 @@ h1{
 .block1{
     background-color: blue; 
     margin: 1px;
-    border: 1px solid black; 
-display: flex;
+    border: 1px solid black;  
+    display: flexbox;
+  display: flex;
 flex-direction: column-reverse;
 flex-wrap: wrap;
 } 
@@ -53,7 +54,8 @@ display: flex;
     margin: 1px;
     border: 1px solid black;  
     flex-wrap: wrap;
-    flex-direction: column-reverse;
+    flex-direction: column-reverse; 
+    display: flexbox;
 } 
 .block3{
     background-color: salmon; 
@@ -61,7 +63,8 @@ display: flex;
     margin: 1px;
     border: 1px solid black;  
     flex-wrap: wrap;
-    flex-direction: column-reverse;
+    flex-direction: column-reverse; 
+    display: flexbox;
 } 
 .block4{
     background-color: wheat; 
@@ -69,7 +72,8 @@ display: flex;
 flex-wrap: wrap;
     margin: 1px;
     border: 1px solid black; 
-    flex-direction: column-reverse;
+    flex-direction: column-reverse; 
+    display: flexbox;
 } 
 .C1{  
     background-color: blanchedalmond; 
@@ -125,7 +129,6 @@ th,td{
  } 
  .row{ 
 
-    position: relative; 
     display: flex;
     flex-wrap: wrap;
  }
