@@ -27,6 +27,9 @@
 @media (max-width: 767){
     .col-sm-12{
         width: 100%;
+    } 
+    .row{
+        flex-direction: column;
     }
 }
 
