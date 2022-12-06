@@ -69,26 +69,30 @@ h1{
     background-color: blanchedalmond;
     display: block;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: max-content;
 
 } 
 .C2{ 
     background-color: magenta;
     display: block;
     margin: 1px;
-    border: 1px solid black; 
+    border: 1px solid black;  
+    width: min-content;
 } 
 .C3{
     background-color: red;
     display: block;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: 200px;
 } 
 .C4{
     background-color: green;
     display: block;
     margin: 1px;
-    border: 1px solid black;
+    border: 1px solid black; 
+    width: 100px;
 } 
 li{
     color: blueviolet;
