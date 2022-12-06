@@ -126,7 +126,6 @@ th,td{
     font-family: 'Pacifico', cursive;
  } 
  .flexbox{  
-
     display: flex;
     flex-wrap: wrap;
  }
