@@ -45,15 +45,14 @@ h1{
     border: 1px solid black;    
     display: flex; 
     flex-direction: column-reverse; 
-    flex-grow: 1;
-} 
+}
 .block2{
     background-color: aqua; 
     margin: 1px;
     border: 1px solid black; 
     display: flex; 
     flex-direction: column-reverse;  
-    flex-grow: 1;
+
 } 
 .block3{
     background-color: salmon; 
@@ -62,7 +61,7 @@ h1{
     border: 1px solid black;   
     display: flex; 
     flex-direction: column-reverse;
-    flex-grow: 1;
+
 } 
 .block4{
     background-color: wheat; 
@@ -70,7 +69,7 @@ margin: 1px;
     border: 1px solid black;  
     display: flex; 
     flex-direction: column-reverse;
-    flex-grow: 1;
+
    
 } 
 .C1{  
