@@ -45,7 +45,7 @@ h1{
     border: 1px solid black;    
     display: flex; 
     flex-direction: column-reverse;  
-    height: 400px;
+    height: 300px;
 }
 .block2{
     background-color: aqua; 
@@ -53,7 +53,7 @@ h1{
     border: 1px solid black; 
     display: flex; 
     flex-direction: column-reverse;  
-    height: 400px;
+    height: 300px;
 } 
 .block3{
     background-color: salmon; 
@@ -62,7 +62,7 @@ h1{
     border: 1px solid black;   
     display: flex; 
     flex-direction: column-reverse;
-    height: 400px;
+    height: 300px;
 } 
 .block4{
     background-color: wheat; 
@@ -70,7 +70,7 @@ margin: 1px;
     border: 1px solid black;  
     display: flex; 
     flex-direction: column-reverse;
-    height: 400px;
+    height: 300px;
    
 } 
 .C1{  
