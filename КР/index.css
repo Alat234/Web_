@@ -44,7 +44,7 @@ h1{
     display: flex;
     margin: 1px;
     border: 1px solid black; 
-    width: auto; 
+    width: 400px; 
 
 
 } 
@@ -52,14 +52,16 @@ h1{
     background-color: aqua; 
     display: flex;
     margin: 1px;
-    border: 1px solid black; 
+    border: 1px solid black;  
+    width: 400px; 
    
 } 
 .block3{
     background-color: salmon; 
     display: flex;
     margin: 1px;
-    border: 1px solid black; 
+    border: 1px solid black;  
+    width: 400px; 
     
 } 
 .block4{
@@ -67,6 +69,7 @@ h1{
     display: flex;
     margin: 1px;
     border: 1px solid black; 
+    width: 400px; 
 } 
 .C1{  
     background-color: blanchedalmond;
