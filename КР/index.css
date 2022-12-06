@@ -71,7 +71,8 @@ display: flex;
    
 } 
 .C1{  
-    background-color: blanchedalmond;
+    background-color: blanchedalmond; 
+    color: brown;
     margin: 1px;
     border: 1px solid black; 
     width: 100px; 
@@ -79,7 +80,8 @@ display: flex;
 
 } 
 .C2{ 
-    background-color: magenta;
+    background-color: magenta; 
+    color: navy;
 
     margin: 1px;
     border: 1px solid black;  
@@ -87,14 +89,16 @@ display: flex;
     font-size: 120%;
 } 
 .C3{
-    background-color: red;
+    background-color: red; 
+
     font-size: 120%;
     margin: 1px;
     border: 1px solid black; 
     width: 100px;
 } 
 .C4{
-    background-color: green;
+    background-color: green; 
+    color: azure;
     font-size: 120%;
     margin: 1px;
     border: 1px solid black; 
