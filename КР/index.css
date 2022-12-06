@@ -56,27 +56,20 @@ h1{
     text-align: center;
 
 
+}  
+.block1{
+    background-color: blue;
 } 
-p{
-    font-size: 120%;
+.block2{
+    background-color: aqua;
 } 
-.row {
-    width: 100%;
-    display: flex;
-    text-align: center;
-
+.block3{
+    background-color: salmon;
 } 
-.flexitem{
-    display: block;
-    margin: 15px;
-    border: 1px solid black;
-    border-radius: 15px;
-    padding: 10px;
+.block4{
+    background-color: wheat;
 }
-a { 
-    font-size: 25px;
-   
-} 
+
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 p{
     font-family: 'Lobster', cursive;
