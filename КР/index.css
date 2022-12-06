@@ -58,7 +58,33 @@ h1{
     display: block;
     margin: 1px;
     border: 1px solid black;
+} 
+.C1{  
+    background-color: blanchedalmond;
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+
+} 
+.C2{ 
+    background-color: magenta;
+    display: block;
+    margin: 1px;
+    border: 1px solid black
+} 
+.C3{
+    background-color: red;
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
+} 
+.C4{
+    background-color: green;
+    display: block;
+    margin: 1px;
+    border: 1px solid black;
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 p{
