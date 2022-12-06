@@ -116,7 +116,8 @@ th,td{
     font-family: 'Pacifico', cursive;
  } 
  .row{ 
-
+    position: relative;
+    float: right;
     display: flex;
     flex-wrap: wrap;
  }
