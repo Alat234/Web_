@@ -123,8 +123,6 @@ th,td{
  } 
  .row{
     position: relative; 
-    text-align: right;
-    font-family: 'Roboto Condensed', sans-serif;
     display: flex;
     flex-wrap: wrap;
  }
